@@ -1,0 +1,7 @@
+body{
+    border: 1px solid black;
+}
+
+.forms, thead{
+    text-align: center;
+}
